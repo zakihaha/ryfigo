@@ -1,0 +1,19 @@
+#panel {
+  /* min-height: 80vh!important;
+  max-height: 80vh!important; */
+}
+
+#banner {
+  padding-top: 60px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+#banner .atm-card-body {
+  padding: 150px;
+}
+
+#done {
+  display: flex;
+  justify-content: flex-end;
+}

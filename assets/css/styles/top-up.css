@@ -1,0 +1,31 @@
+a {
+  color: black!important;
+}
+
+#banner .row-banner {
+  margin-top: 60px;
+}
+
+#banner .title-banner {
+  margin-top: 100px;
+}
+
+#banner .title-banner p {
+  width: 450px;
+}
+
+#atm-section {
+  margin-top: 60px;
+}
+
+#atm-section .atm-card .atm-card-body {
+  min-height: 120px;
+}
+
+#minimarket-section {
+  margin-top: 30px;
+}
+
+#minimarket-section .minimarket-card .minimarket-card-body {
+  min-height: 120px;
+}

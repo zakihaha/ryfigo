@@ -1,0 +1,38 @@
+#banner {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.banner-bronze {
+  background-image: url(../../img/illustration/bg-success-join-bronze.jpg);
+}
+
+.banner-silver {
+  background-image: url(../../img/illustration/bg-success-join-silver.jpg);
+}
+
+.banner-gold {
+  background-image: url(../../img/illustration/bg-success-join-gold.jpg);
+}
+
+.banner-diamond {
+  background-image: url(../../img/illustration/bg-success-join-diamond.jpg);
+}
+
+#banner .description {
+  padding-top: 100px;
+}
+
+#banner .description h1 {
+  color: white;
+}
+
+#banner .description .success-description {
+  padding-top: 70px;
+}
+
+#banner .description .success-description h1.title-description {
+  margin-bottom: 30px;
+}
